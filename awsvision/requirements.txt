@@ -1,0 +1,5 @@
+Pillow == 7.0.0
+altair == 4.1.0
+boto3 == 1.16.63
+numpy == 1.19.5
+streamlit == 0.79.0
